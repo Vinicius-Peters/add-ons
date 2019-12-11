@@ -59,33 +59,7 @@ namespace Projeto
 
                 switch (pVal.MenuUID)
                 {
-                    case "Cadastro":
-                        {
-                            var activeForm = new Cadastro();
-                            activeForm.Show();
-                        }
-                        break;
-                    case "Documento":
-                        {
-                            var activeForm = new Documento();
-                            activeForm.Show();
-                        }
-                        break;
-
-                    case "PedidoVenda":
-                        {
-                            var activeForm = new PedidoVenda();
-                            activeForm.Show();
-                        }
-                        break;
-
-                    case "Teste":
-                        {
-                            var activeForm = new Teste();
-                            activeForm.Show();
-                        }
-                        break;
-
+                   
                     case "RenegotiationTitle":
                         {
                             var activeForm = new RenegotiationTitle();
@@ -95,12 +69,6 @@ namespace Projeto
                     case "Cobrança_Avulsa":
                         {
                             var activeForm = new Cobrança_Avulsa();
-                            activeForm.Show();
-                        }
-                        break;
-                    case "CobrançaAvulsa2":
-                        {
-                            var activeForm = new CobrançaAvulsa2();
                             activeForm.Show();
                         }
                         break;
