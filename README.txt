@@ -8,7 +8,7 @@ Projetos-> View-> CobrancaAvulsa.b1f (Código em XML)
 Projetos-> View-> RenegotiationTitle.b1f.cs (Código em c#)
 Projetos-> View-> RenegotiationTitle.b1f (Código em XML)
      
-     Descrição: Foi desenvolvido para listar por parceiro de negócio, cada titulo bancário que ele possui em aberto. E Assim, o usuário selecionará quais titulos devem ser renegociados e irá inserir todos os dados na base do SAP.
+     Descrição: Foi desenvolvido para listar por parceiro de negócio, cada título bancário que ele possui em aberto. E Assim, o usuário selecionará quais títulos deverão ser renegociados e irá inserir todos os dados na base do SAP.
      
 --------------------------------------------------------\\--------------------------------------------------------
 
