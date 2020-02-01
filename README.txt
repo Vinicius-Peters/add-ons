@@ -1,7 +1,7 @@
 Projetos-> View-> CobrancaAvulsa.b1f.cs (Código em c#)
 Projetos-> View-> CobrancaAvulsa.b1f (Código em XML)
       
-      Descrição:  O Add-on de cobrança avulsa foi desenvolvido com o intuito de facilitar a cobrança individual do parceiros de negócios e de seus respectivos itens. O Software possui um botão imprimir, que após o usuário selecionar todos os itens que serão renegociados irá gerar um boleto com a cobrança total.
+      Descrição:  O Add-on de cobrança avulsa foi desenvolvido com o intuito de facilitar a cobrança individual do parceiros de negócios e de seus respectivos itens. O Software possui a opção de imprimir relatório, que após o usuário selecionar todos os itens que serão renegociados irá gerar um boleto com a cobrança total.
 
 --------------------------------------------------------\\--------------------------------------------------------
 
